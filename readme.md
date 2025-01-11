@@ -52,7 +52,7 @@ This repository contains notebooks and PDF notes designed to help you understand
 ### Exception Handling
    - **Summary**: This notebook explores Python's exception handling mechanisms. Topics covered include try-except blocks, custom exceptions, and best practices for writing robust Python code.
    - **Core Usecase**: Teaches the best practices for handling errors in Python applications, ensuring smooth user experiences and system reliability.
-   - **Applications**: Developing robust APIs, handling runtime errors in applications, and building fault-tolerant systems.
+   - **Applications**: Developing robust Applications and APIs, handling runtime errors in applications, and building fault-tolerant systems.
 
 ### File Handling
    - **Summary**: This repository also demonstrates how to handle files in Python. You’ll find examples of reading and writing to text and CSV files, handling file paths, and working with file I/O operations.
