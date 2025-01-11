@@ -17,12 +17,12 @@ This repository contains notebooks and PDF notes designed to help you understand
 ### Python Refresher 1
    - **Summary**: A refresher course on the fundamentals of Python programming, covering basic syntax, control flow, data types, and functions.
    - **Core Usecase**: Ensures a solid understanding of Python fundamentals, providing the foundation for more advanced topics.
-   - **Applications**: Basic scripting, web scraping, automation tasks, and simple data processing.
+   - **Applications**: Basic scripting, automation tasks, and simple data processing.
 
 ### Python Refresher 2
-   - **Summary**: A continuation of the Python refresher, focusing on more advanced topics such as modules, decorators, and iterators.
+   - **Summary**: A continuation of the Python refresher, focusing on data structure topics such as Dictionary, set, lists and memory management
    - **Core Usecase**: Prepares learners to work with modular, reusable code and understand advanced Python features for clean and efficient programming.
-   - **Applications**: Building reusable libraries, working with APIs, and handling large datasets efficiently.
+   - **Applications**: Efficiently storing data into appropriate data structure
 
 ### Basics of Time & Space Complexity
    - **Summary**: This notebook introduces the fundamental concepts of time and space complexity. It covers how to evaluate the efficiency of algorithms using Big O notation, and discusses various scenarios, along with space vs. time trade-offs.
