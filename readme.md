@@ -25,7 +25,7 @@ This repository contains notebooks and PDF notes designed to help you understand
    - **Applications**: Building reusable libraries, working with APIs, and handling large datasets efficiently.
 
 ### Basics of Time & Space Complexity
-   - **Summary**: This notebook introduces the fundamental concepts of time and space complexity. It covers how to evaluate the efficiency of algorithms using Big O notation, and discusses best, average, and worst-case scenarios, along with space vs. time trade-offs.
+   - **Summary**: This notebook introduces the fundamental concepts of time and space complexity. It covers how to evaluate the efficiency of algorithms using Big O notation, and discusses various scenarios, along with space vs. time trade-offs.
    - **Core Usecase**: Helps in analyzing and optimizing algorithms for performance, especially in time-critical applications.
    - **Applications**: Algorithm optimization in data processing, machine learning, and system design.
 
