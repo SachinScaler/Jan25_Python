@@ -64,7 +64,9 @@ This repository contains notebooks and PDF notes designed to help you understand
 
 
 #### Additional Practice Problems Links:
-
+- For basic Data Structure applications refer : Data_Structure_Use_Cases_and_Practice_Problems.ipynb
+- For Algorithms and maths concept used in ML: Fundamental_MathswithAlgorithmsPractice_Sheet.ipynb
+- Practice followings Questions:
 https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
 
 https://www.geeksforgeeks.org/problems/second-largest3735/1
@@ -112,3 +114,5 @@ https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotati
 https://leetcode.com/problems/rotate-image/description/
 
 https://leetcode.com/problems/spiral-matrix/description/
+
+- for Medium | Advanced problems on algorithms: DSA_Practice_problems_Medium_|_Hard.ipynb
